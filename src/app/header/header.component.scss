@@ -1,0 +1,20 @@
+@import "colors";
+
+header {
+  background: $black;
+  height: 80px;
+  width: 100%;
+}
+
+.nav-items,
+.name {
+  color: white;
+}
+
+nav {
+  padding: 0 140px;
+}
+
+.nav-items {
+  gap: 60px;
+}
